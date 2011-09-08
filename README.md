@@ -1,4 +1,5 @@
-* GlobalReplace for Vim
+GlobalReplace for Vim
+---------------------
 
 This function gives Vim a simple way to do a search and replace for a search term on all files in the current directory and below.
 
